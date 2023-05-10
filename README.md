@@ -1,4 +1,5 @@
-#**Self Balancing Robot using Arduino**
+**SELF BALANCING ROBOT USING ARDUINO**
+
 This project is about building a self-balancing robot using an Arduino microcontroller board. The robot uses an inertial measurement unit (IMU) sensor to measure its orientation and balance itself. The robot also uses a motor driver to control the motors to maintain balance.
 
 Components Required
